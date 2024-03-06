@@ -10,6 +10,7 @@ I may add some repositories that are just circuit design such as a super capacit
 - Arduino Data Structure Library
 - Arduino Remote Controlled Tank(no repo yet)
 - GameDuino an Arduino Mega based GameBoy style game console(no repo yet)
+- A stock/crypto trading bot app for android
 
 <!---
 andreystroit3301/andreystroit3301 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
